@@ -1,0 +1,11 @@
+.box{
+    width:100px;
+    height: 100px;
+    background-color: cornflowerblue;
+    margin:50px auto;
+    transition: background-color 5s;
+}
+
+.box:hover{
+    background-color: crimson;
+}
